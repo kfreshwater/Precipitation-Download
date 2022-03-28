@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Precipitation-Download
 
 This repository builds upon an in-class coding session for Matt Ross's ESS580A9 'Environmental Data Science Applications: Water Resources' course at Colorado State University. The purpose of this analysis was to geographically define airport weather stations across Colorado, then compare daily precipitation data between selected stations over a number of years. 
